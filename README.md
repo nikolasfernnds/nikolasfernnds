@@ -4,14 +4,11 @@
 - 💻 Skilled in **Markup Languages** | **Java** | **JavaScript** | **Graphic Design**.
 
 ## Get in touch:
-<div> 
-  <a href="https://instagram.com/nikolasfernnds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:nifernandesv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/nikolas-fernandes-8b7b6429a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-</div>
+## Get in touch:
+
+💬 Feel free to reach out for collaborations or just a tech chat!  
+📧 Email me at [nifernandesv@email.com](mailto:nifernandesv@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/nikolasfernnds/)  
 
 ## Stats & Technologies:
   <a href="https://github.com/nikolasfernnds/github-readme-stats">
