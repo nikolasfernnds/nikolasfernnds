@@ -4,7 +4,6 @@
 - 💻 Skilled in **Markup Languages** | **Java** | **JavaScript** | **Graphic Design**.
 
 ## Get in touch:
-## Get in touch:
 
 💬 Feel free to reach out for collaborations or just a tech chat!  
 📧 Email me at [nifernandesv@email.com](mailto:nifernandesv@gmail.com)  
