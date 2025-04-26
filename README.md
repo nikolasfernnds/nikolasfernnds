@@ -28,7 +28,7 @@
 </div>
 <!--
 **nikolasfernnds/nikolasfernnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img alt="Serpente comendo minhas contribuições" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
