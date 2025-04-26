@@ -26,9 +26,12 @@
   <img align="center" alt="Nikolas-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg".
 </div>
 </div>
+<div>
+  <img alt="Serpente comendo minhas contribuições" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 <!--
 **nikolasfernnds/nikolasfernnds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img alt="Serpente comendo minhas contribuições" src="https://raw.githubusercontent.com/CristianDeveloperk/CristianDeveloperk/output/github-contribution-grid-snake-dark.svg" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
