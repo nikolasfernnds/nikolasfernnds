@@ -1,4 +1,4 @@
-# Hi there, I'm Nikolas Fernandes!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0000CD&random=false&width=500&height=40&lines=Hi,+I'm+Nikolas+Fernandes!)](https://git.io/typing-svg)
 - 🎓 Currently studying **Systems Development** at [SENAI](https://www.sp.senai.br/)
 - 🚀 Looking for an **internship opportunity**.  
 - 💻 Skilled in **Markup Languages** | **Java** | **JavaScript** | **Graphic Design**.
